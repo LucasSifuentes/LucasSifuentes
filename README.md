@@ -17,16 +17,7 @@
 ## Connect with me ☕ :
 
 <div align="center">
-        <a href="" target="_blank">
-        <img src="[https://img.icons8.com/?size=100&id=20909&format=png&color=000000](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)" alt="GMAIL" width="40" height="40" /> 
-    </a>
-    
- <a href="" target="_blank">
-        <img src="[https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)" alt="Linkedin" width="40" height="40" /> 
-    </a>
-    <a href="" target="_blank">
-        <img src="[https://img.icons8.com/?size=100&id=Lvn3jvfnl1XF&format=png&color=000000](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)" alt="Instagram" width="40" height="40" />
-    </a>
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
 </div>
 
 ## What I am Good at 🧑‍💻 :
