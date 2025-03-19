@@ -17,14 +17,15 @@
 ## Connect with me ☕ :
 
 <div align="center">
-    <a href="https://www.instagram.com/anushkawijegoonawardana97/">
-        <img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" alt="Instagram">
+        <a href="" target="_blank">
+        <img src="[https://img.icons8.com/?size=100&id=20909&format=png&color=000000](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)" alt="GMAIL" width="40" height="40" /> 
     </a>
-    <a href="https://www.linkedin.com/in/lucass-sifuentes/">
-        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
+    
+ <a href="" target="_blank">
+        <img src="[https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)" alt="Linkedin" width="40" height="40" /> 
     </a>
-    <a href="mailto:lucassifuentes23@gmail.com">
-        <img src=" https://icons8.com/icon/ZsqwnJaWUi9o/gmail-logo" alt="Mail">
+    <a href="" target="_blank">
+        <img src="[https://img.icons8.com/?size=100&id=Lvn3jvfnl1XF&format=png&color=000000](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)" alt="Instagram" width="40" height="40" />
     </a>
 </div>
 
