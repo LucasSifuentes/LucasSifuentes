@@ -18,13 +18,13 @@
 
 <div align="center">
     <a href="https://www.instagram.com/anushkawijegoonawardana97/">
-        <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram">
+        <img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" alt="Instagram">
     </a>
-    <a href="https://www.linkedin.com/in/anushkawijegoonawardana97/">
+    <a href="https://www.linkedin.com/in/lucass-sifuentes/">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
     </a>
-    <a href="mailto:anushkaduwolka123@gmail.com">
-        <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Mail">
+    <a href="mailto:lucassifuentes23@gmail.com">
+        <img src=" https://icons8.com/icon/ZsqwnJaWUi9o/gmail-logo" alt="Mail">
     </a>
 </div>
 
