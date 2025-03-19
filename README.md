@@ -7,7 +7,7 @@
 
 ## About Me :
 
-- 🏢 I am currently study **Computer Science** at [FAMAF](https://www.famaf.unc.edu.ar/)
+- 🏢 I am currently study **Computer Science** at [FAMAF](https://www.famaf.unc.edu.ar/) in [UNC](https://www.unc.edu.ar/)
 - 🏢 Former **Mechanic Technician** at [EPET 13](https://www.facebook.com/p/EPET-N%C2%BA-13-100057655171713/)
 - 🏡Iam from **Chos Malal - Neuquen - Argentina**
 - ⚡ **Fun Facts** : :basketball:
@@ -31,15 +31,15 @@
 ## What I am Good at 🧑‍💻 :
 
 <div align="center">
-    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/> 
-    <img src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000"/> 
-    <img src="https://img.icons8.com/?size=100&id=Lvn3jvfnl1XF&format=png&color=000000" alt="">
-    <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="">
-    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="">
-    <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt="">
-    <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="">
-    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/> 
-    <img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000"/> 
+    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="" width="40" height="40" /> 
+    <img src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" width="40" height="40" /> 
+    <img src="https://img.icons8.com/?size=100&id=Lvn3jvfnl1XF&format=png&color=000000" alt="" width="40" height="40" />
+    <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="" width="40" height="40" />
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="" width="40" height="40" />
+    <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt="" width="40" height="40" />
+    <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="" width="40" height="40" />
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40" height="40" /> 
+    <img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" width="40" height="40" /> 
 
 </div>
 
