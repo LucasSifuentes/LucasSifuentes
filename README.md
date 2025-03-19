@@ -16,9 +16,18 @@
 
 ## Connect with me ☕ :
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@lucassifuentes23@gmail.com")](https://www.instagram.com/lucas_sifuentes/)  
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@lucassifuentes23@gmail.com")](https://www.linkedin.com/in/lucass-sifuentes/)    
-[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@lucassifuentes23@gmail.com")](mailto:lucassifuentes23@gmail.com)  
+<div align="center">
+    <a href="https://www.instagram.com/lucas_sifuentes/">
+        <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram">
+    </a>
+    <a href="https://www.linkedin.com/in/lucass-sifuentes/">
+        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
+    </a>
+    <a href="mailto:lucassifuentes23@gmail.com">
+        <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email">
+    </a>
+</div>
+
 
 ## What I am Good at 🧑‍💻 :
 
