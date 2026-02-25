@@ -10,7 +10,7 @@
 - 🏢 I am currently study **Computer Science** at [FAMAF](https://www.famaf.unc.edu.ar/) in [UNC](https://www.unc.edu.ar/)
 - 🏢 Former **Mechanic Technician** at [EPET 13](https://www.facebook.com/p/EPET-N%C2%BA-13-100057655171713/)
 - 🏡Iam from **Chos Malal - Neuquen - Argentina**
-- ⚡ **Fun Facts** : :basketball:
+- ⚡ **Sports** : :basketball:
 
 <br>
 
